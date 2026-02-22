@@ -39,4 +39,4 @@
 
 11. Tanda Berhasil  https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
 
-![alt text](image-9.png)
+![alt text](image-10.png)
